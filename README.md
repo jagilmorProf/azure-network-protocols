@@ -25,10 +25,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Virtual Machines through Microsoft Azure
+- Remote Desktop to Virtual Machine, Install Wireshark
+- Test Connections between VM1, and VM2. Adjust Permissions
+- Utilize Wireshark to Analyze SSH, DHCP, DNS, and RDP Traffic
 
 <h2>Actions and Observations</h2>
 
